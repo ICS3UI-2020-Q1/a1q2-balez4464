@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author 
+ * @author Zachary Balean
  */
 public class Main {
 
