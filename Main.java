@@ -1,5 +1,6 @@
 import java.util.Scanner;
-/**
+
+/**This program divides and calculates the remainder of the users given number
  *
  * @author Zachary Balean
  */
